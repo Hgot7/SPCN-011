@@ -38,7 +38,7 @@
       - หน้า console screen
         ![image](https://user-images.githubusercontent.com/117428887/207250406-0046c82f-bab3-4619-b8b3-40d1d6c397ec.png)  
 
-3) create container template (select from CT list)
+3) create container template 
    - Click create container template เพื่อสร้าง CT
       - Summary 
         ![image](https://user-images.githubusercontent.com/117428887/207257544-a0089b6a-1db7-40a6-b2f2-47f3c7c7357e.png)
