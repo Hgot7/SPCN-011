@@ -41,6 +41,6 @@
 3) create container template (select from CT list)
    - Click create container template เพื่อสร้าง CT
       - Summary 
-        ![summary ct](https://user-images.githubusercontent.com/119097660/206991056-5ab02e66-2cb3-4f75-b49c-8512e565e7f3.png)
+        ![image](https://user-images.githubusercontent.com/117428887/207257544-a0089b6a-1db7-40a6-b2f2-47f3c7c7357e.png)
       - console screen 
-        ![watch screen  ct](https://user-images.githubusercontent.com/119097660/206991066-895b52ea-7bcc-41a7-a1da-aa7b5cf7c098.png)
+        ![image](https://user-images.githubusercontent.com/117428887/207257761-fc2e8d1c-a456-4780-8b78-65498a3769db.png)
