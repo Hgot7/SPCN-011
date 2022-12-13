@@ -15,7 +15,8 @@
    1.1) clone from template 2 vm
    - Click ที่ vm(master) > Convert to template
    -  หลังจาก vm(master) กลายเป็นtemplate ให้ Click vm แล้วเลือก Clone เป็นตัวvmใหม่2ตัว
-      ![click_clone](https://user-images.githubusercontent.com/117428887/207249801-0fdeac3a-f89a-4d63-beb7-018d4e3c5cf7.png)
+   
+      ![click_clone](https://user-images.githubusercontent.com/117428887/207249801-0fdeac3a-f89a-4d63-beb7-018d4e3c5cf7.png)   
    - ทำการsetระบบโดย
         - date เพื่อเช็คtimezone
           ![date](https://user-images.githubusercontent.com/117428887/207250064-7dbee734-ba17-4e07-8c8e-bfc448aed275.png) 
