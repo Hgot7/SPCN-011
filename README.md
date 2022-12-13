@@ -32,12 +32,12 @@
  
 2) create vm from other os
    - Create VM จากนั้นทำการตั้งค่าที่กำหนดโดยระบบปฏิบัติการที่เลือกใช้คือ Kali
-      - Summary ของ Kali
-        ![summary os other](https://user-images.githubusercontent.com/119097660/206990720-54d13749-d4e8-411a-8193-7eced674c558.png)
+      - Summary ของ Linux Mint
+        ![image](https://user-images.githubusercontent.com/117428887/207254087-5c33fc7e-9147-4fe2-ba37-0b3760e770ab.png)
       - หน้า console screen
         ![image](https://user-images.githubusercontent.com/117428887/207250406-0046c82f-bab3-4619-b8b3-40d1d6c397ec.png)  
 
-3) create vm from other os
+3) create container template (select from CT list)
    - Click create container template เพื่อสร้าง CT
       - Summary 
         ![summary ct](https://user-images.githubusercontent.com/119097660/206991056-5ab02e66-2cb3-4f75-b49c-8512e565e7f3.png)
