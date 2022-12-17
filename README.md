@@ -18,7 +18,7 @@
    
       ![click_clone](https://user-images.githubusercontent.com/117428887/207249801-0fdeac3a-f89a-4d63-beb7-018d4e3c5cf7.png)   
    - ทำการsetระบบโดย
-        - date เพื่อเช็คtimezone
+        - date เพื่อเช็ค timezone
           ![date](https://user-images.githubusercontent.com/117428887/207250064-7dbee734-ba17-4e07-8c8e-bfc448aed275.png) 
         - ทำการเปลี่ยนipของระบบเพื่อไม่ให้ipซ้ำกันโดย
             - sudo -i
