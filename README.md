@@ -33,7 +33,7 @@
               ![clone2](https://user-images.githubusercontent.com/117428887/207250128-efab9275-9ffb-4829-81d6-709189a7d3db.png)
  
 2) create vm from other os
-   - Create VM จากนั้นทำการตั้งค่าที่กำหนดโดยระบบปฏิบัติการที่เลือกใช้คือ Kali
+   - Create VM จากนั้นทำการตั้งค่าที่กำหนดโดยระบบปฏิบัติการที่เลือกใช้คือ Linux Mint
       - Summary ของ Linux Mint
         ![image](https://user-images.githubusercontent.com/117428887/207254087-5c33fc7e-9147-4fe2-ba37-0b3760e770ab.png)
       - หน้า console screen
