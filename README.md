@@ -3,7 +3,7 @@
 
 1) Create master vm [ ubuntu-22.04 ]
    - สร้าง master vm มา 1 ตัว แล้วทำการ set ค่าพื้นฐานต่างๆ
-   - เช็คเวลาด้วย dateและตset update time ด้วยคำสั่ง sudo timedatectl set-timezone Asia/Bangkok
+   - เช็คเวลาด้วย dateและset update time ด้วยคำสั่ง sudo timedatectl set-timezone Asia/Bangkok
    - ทำการเปิดใช้งาน ip qemu ด้วยคำสั่ง
        - sudo -i
        - apt update
