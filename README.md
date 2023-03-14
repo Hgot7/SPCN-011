@@ -5,8 +5,9 @@
    - สร้าง master vm มา 1 ตัว แล้วทำการ set ค่าพื้นฐานต่างๆ
    - เช็คเวลาด้วย dateและset update time ด้วยคำสั่ง sudo timedatectl set-timezone Asia/Bangkok
    - ทำการเปิดใช้งาน ip qemu ด้วยคำสั่ง
+       - timedatectl set-timezone Asia/Bangkok
+       - apt update; apt upgrade -y
        - sudo -i
-       - apt update
        - apt install qemu-guest-agent
        - systemctl enable qemu-guest-agent
        - และทำการตั้งค่าที่ option ให้เปิดใช้งานตัว Qemu guest agent เป็น Enable 
